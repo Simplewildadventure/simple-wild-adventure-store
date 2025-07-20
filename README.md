@@ -1,1 +1,3 @@
-# simple-wild-adventure-store
+# Simple Wild Adventure Store
+
+Website penjualan jersey dan perlengkapan pendakian.
